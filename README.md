@@ -19,21 +19,19 @@
 
 Después de clonar el repositorio, instala las dependencias del backend con:
 
-```bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
-## **Instalación del Frontend (Angular)**
 
-Sigue estos pasos para configurar y ejecutar el frontend de Angular:
+## Instalación del Frontend (Angular)
 
-1. **Instalar Node.js y npm**  
-   Asegúrate de tener **Node.js** y **npm** instalados en tu computadora. Puedes descargar e instalar Node.js desde su sitio oficial:  
-   [https://nodejs.org/](https://nodejs.org/)
+    1. **Instalar Node.js y npm**  
+     Asegúrate de tener **Node.js** y **npm** instalados en tu computadora. Puedes descargar e instalar Node.js desde su sitio oficial:  
+        [https://nodejs.org/](https://nodejs.org/)
 
-   Una vez instalado, verifica que estén disponibles ejecutando:
-   ```bash
-   node -v
-   npm -v
-   npm install
-   ng serve
+        ```bash
+        node -v
+        npm -v
+        npm install
+        ng serve
 
